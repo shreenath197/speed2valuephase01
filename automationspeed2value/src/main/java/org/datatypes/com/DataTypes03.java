@@ -7,7 +7,7 @@ public class DataTypes03 {
 		
 		System.out.println(Long.MIN_VALUE);
 		System.out.println(Long.MAX_VALUE);
-		System.out.println("jgftyfty");
+		System.out.println("this is done");
 		
 
 	}
