@@ -11,6 +11,7 @@ public class DataTypes01 {
 		System.out.println(Byte.MAX_VALUE);
 		System.out.println(Short.MAX_VALUE);
 		System.out.println(Short.MIN_VALUE);
+		System.out.println("This is first datatype class");
 
 	}
 

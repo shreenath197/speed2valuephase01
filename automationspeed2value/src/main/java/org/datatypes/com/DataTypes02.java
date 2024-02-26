@@ -6,7 +6,7 @@ public class DataTypes02 {
 		// TODO Auto-generated method stub
 		System.out.println(Integer.MIN_VALUE);
 		System.out.println(Integer.MAX_VALUE);
-		
+		System.out.println("This is second datatype class");
 
 	}
 
